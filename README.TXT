@@ -15,3 +15,5 @@ Purpose of project: This project forms the basis of a set of exercises
 How to start this project: Create one or more Book instances.
 
 USER INSTRUCTIONS: Complete the exercises in Chapter 2.
+
+Hello
